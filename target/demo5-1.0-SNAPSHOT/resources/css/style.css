@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(230, 228, 228);
+}
+
+.one{
+    width: 960px;
+    height: 30px;
+    background: white;
+    margin: auto;
+    font-family: cursive;
+
+
+}
+
+.two{
+    width: 1100px;
+    height: 20px;
+    margin: -50px;
+    padding-left: 20%;
+    border-spacing: 30px;
+    font-family: cursive;
+    table-layout: fixed;
+}
+
+.three{
+    width: 1100px;
+    height: 20px;
+    margin: -50px;
+    padding-left: 20%;
+    border-spacing: 30px;
+    font-family: cursive;
+    table-layout: fixed;
+
+}
+
+td,th{
+    border: 1px solid rgb(8, 8, 8);
+
+}
+
+.four{
+    width: 955px;
+    height: 300px;
+    margin-left: 18.5%;
+    border-collapse: collapse;
+    font-family: cursive;
+    text-align: left;
+}
+
+.five{
+    font-family: cursive;
+    line-height: 2.5;
+    margin-left: 320px;
+
+}
+
+.six{
+    width: 955px;
+    height: 50px;
+    margin-left: 18.5%;
+    border-collapse: collapse;
+    font-family: cursive;
+    text-align: left;
+}
+
+.seven{
+    width: 400px;
+    height: 600px;
+    margin-left: 18.5%;
+    border-collapse: collapse;
+    font-family: cursive;
+    text-align: left;
+}
